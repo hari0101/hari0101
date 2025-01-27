@@ -4,7 +4,8 @@
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=66BB6A&lines=Hi+There!+👋;+I'm+Hari+Prasath!;"
   </h1>
   <br/>
-<div align="left">💫 About Me:</div>
+ 
+## 💫 About Me:
 
 <h4 align="left">
  
