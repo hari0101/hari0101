@@ -15,7 +15,6 @@
 
 ⚡ Fun fact,  **I love learning new technologies and constantly improving my skills!**
  </h4>
- <br/>
  
 <h2 align="left">🌐 Socials</h2>
 
@@ -30,7 +29,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
-<br/>
+
 <h2 align="left">💻 Languages-Frameworks-Tools</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" title="Eclipse" />
