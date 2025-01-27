@@ -33,9 +33,17 @@
 <br/>
 <h2 align="left">💻 Languages-Frameworks-Tools</h2>
 <div align="left">
-    	<img src="https://skillicons.dev/icons?i=eclipse,java,maven,selenium" />	
-	   <img src="https://github.com/hari0101/hari0101/blob/main/images/TestNG.png" width="70" height="40" />
-	   <img src="https://skillicons.dev/icons?i=gherkin,git,github,jenkins,docker,mysql"/>
+  <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" title="Eclipse" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=maven" alt="Maven" title="Maven" />
+  <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" title="Selenium" />
+  <img src="https://github.com/hari0101/hari0101/blob/main/images/TestNG.png" width="70" height="40" alt="TestNG" title="TestNG"/>
+  <img src="https://skillicons.dev/icons?i=gherkin" alt="Gherkin" title="Cucumber" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" title="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />	
 </div>
 <h2 align="left">⚡ Stats</h2>
 <p align="left">
