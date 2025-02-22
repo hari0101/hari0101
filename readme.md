@@ -11,7 +11,7 @@
 
 🌱 Continuous learner, always exploring the latest trends and technologies in the testing domain.  
 
-🔧 I'm currently working on an automation framework with Selenium and TestNG [View Project](https://github.com/hari0101/Project-BestBuy_WebApplication.git).
+🔧 I'm currently working on an automation framework with Selenium and TestNG [View Project](https://github.com/hari0101/Luma-WebApp-QA-Testing.git).
 
 ⚡ Fun fact,  **I love learning new technologies and constantly improving my skills!**
  </h4>
